@@ -4,4 +4,4 @@ A system that monitors environment humidity, temperature and pressure and gives 
 
 # Prototype with the M5Stack
 
-![alt text](./assets/IMG-20250710-WA0000.jpg)
+![UIFlow Screenshot](./assets/IMG-20250710-WA0000.jpg)
