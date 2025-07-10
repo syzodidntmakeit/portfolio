@@ -53,3 +53,4 @@ This system empowers growers to:
 It’s an affordable, modular, and effective step toward a resilient agricultural future.
 
 ## Schematic
+![Circuit Diagram](./assets/img_20250216_200253_MOpHBnvgdQ.jpg)
