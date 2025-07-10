@@ -10,3 +10,4 @@ This page showcases some of my personal projects that reflect my skills in elect
 
 - [🌱 Smart Plant Monitor](./smart-plant-monitor/)
 - [🧠 Local LLM Playground](./local-llm-project/)
+- [📁 Local Cloud Storage](./cloud-storage/)
