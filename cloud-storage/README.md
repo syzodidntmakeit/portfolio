@@ -24,34 +24,6 @@ SyzoDrive turns any Linux machine into a **personal cloud storage server**, with
 
 ---
 
-## 🛠 Setup Instructions
-
-### 1. Install Required Tools
-```bash
-sudo pacman -S openssh rsync
-
-### 2. Configure SSH
-```bash
-sudo nano /etc/ssh/sshd_config
-PermitRootLogin no
-PasswordAuthentication no
-AllowUsers syzo
-
-### 3. Add my Public Key
-```bash
-mkdir -p ~/.ssh
-chmod 700 ~/.ssh
-nano ~/.ssh/authorized_keys
-# myPublicKey
-chmod 600 ~/.ssh/authorized_keys
-
-### Example Sync Script (Laptop to Server)
-```bash
-#!/bin/bash
-rsync -avz ~/Documents/ syzo@192.168.69.42:/mnt/cloud/ --delete
-
----
-
 ## 🧠 What I Learned
 - SSH server hardening & file permissions
 - Rsync magic for syncing and mirroring
