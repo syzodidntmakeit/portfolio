@@ -2,6 +2,6 @@
 
 A system that monitors environment humidity, temperature and pressure and gives readings on the surrounding environment.
 
-# Prototype with the M5Stack
+# Prototype
 
-![UIFlow Screenshot](./assets/IMG-20250710-WA0000.jpg)
+![M5Stack](./assets/IMG-20250710-WA0000.jpg)
