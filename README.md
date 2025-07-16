@@ -9,5 +9,5 @@ This page showcases some of my personal projects that reflect my skills in elect
 ## 🔧 Featured Projects
 
 - [🌱 Smart Plant Monitor](./smart-plant-monitor/)
-- [🧠 Local LLM Playground](./local-llm-project/)
+- [🧠 Local LLM Playground](./local-llm-assistant/)
 - [📁 Local Cloud Storage](./cloud-storage/)
